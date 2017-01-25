@@ -106,6 +106,7 @@
 
 #include <errno.h>
 #include <cxxabi.h>
+#include <llvm/Support/FileSystem.h>
 
 using namespace llvm;
 using namespace klee;
